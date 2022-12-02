@@ -1,0 +1,7 @@
+
+{"table":[
+{"league_id":"0","season_id":"11","name":"Netherlands","rank":"1","points":"4","matches":"2","goal_diff":"2","goals_scored":"3","goals_conceded":"1","lost":"0","drawn":"1","won":"1","team_id":"1649","competition_id":"362","group_id":"1913","group_name":"A","stage_name":"Group Stage","stage_id":"1231"},
+{"league_id":"0","season_id":"11","name":"Ecuador","rank":"2","points":"4","matches":"2","goal_diff":"2","goals_scored":"3","goals_conceded":"1","lost":"0","drawn":"1","won":"1","team_id":"1847","competition_id":"362","group_id":"1913","group_name":"A","stage_name":"Group Stage","stage_id":"1231"},
+{"league_id":"0","season_id":"11","name":"Senegal","rank":"3","points":"3","matches":"2","goal_diff":"0","goals_scored":"3","goals_conceded":"3","lost":"1","drawn":"0","won":"1","team_id":"1460","competition_id":"362","group_id":"1913","group_name":"A","stage_name":"Group Stage","stage_id":"1231"},
+{"league_id":"0","season_id":"11","name":"Qatar","rank":"4","points":"0","matches":"2","goal_diff":"-4","goals_scored":"1","goals_conceded":"5","lost":"2","drawn":"0","won":"0","team_id":"1427","competition_id":"362","group_id":"1913","group_name":"A","stage_name":"Group Stage","stage_id":"1231"}]
+}
